@@ -5,6 +5,7 @@ mod greedy;
 mod hash;
 mod linklist;
 mod tree;
+mod sort;
 
 #[cfg(test)]
 mod tests {
